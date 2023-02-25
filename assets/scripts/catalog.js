@@ -5,26 +5,26 @@ var markerCatalog = [{
   "color": "#4bc5ee",
   "children": [{
     "id": "1934",
-    "name": "Memories",
+    "name": "回忆",
     "img": "film",
     "color": "#4bc5ee",
     "checked": true
   }, {
     "id": "1935",
-    "name": "Side-Quests",
+    "name": "迷你挑战",
     "img": "bubble2",
     "color": "#4bc5ee",
     "checked": true
   }, {
     "id": "1936",
-    "name": "Cracked Walls",
+    "name": "矿石",
     "img": "bomb",
     "color": "#4bc5ee",
     "checked": true
   }]
 }, {
   "id": "1902",
-  "name": "Equipment",
+  "name": "装备",
   "img": "BotW_Equipment",
   "color": "#ffad48",
   "children": [{
@@ -54,7 +54,7 @@ var markerCatalog = [{
   }]
 }, {
   "id": "1910",
-  "name": "Items",
+  "name": "素材",
   "img": "BotW_Items",
   "color": "#3cbc75",
   "children": [{
@@ -65,38 +65,38 @@ var markerCatalog = [{
     "checked": true
   }, {
     "id": "1912",
-    "name": "Food (Fish)",
+    "name": "食物",
     "img": "BotW_Fish",
     "color": "#3cbc75",
     "checked": true
   }, {
     "id": "1913",
-    "name": "Herbs",
+    "name": "草药",
     "img": "BotW_Herb",
     "color": "#3cbc75",
     "checked": true
   }, {
     "id": "1914",
-    "name": "Mushrooms",
+    "name": "蘑菇",
     "img": "BotW_Mushroom",
     "color": "#3cbc75",
     "checked": true
   }, {
     "id": "1915",
-    "name": "Materials",
+    "name": "材料",
     "img": "BotW_Materials",
     "color": "#3cbc75",
     "checked": true
   }, {
     "id": "1916",
-    "name": "Korok Seeds",
+    "name": "克洛洛",
     "img": "BotW_Korok-Seeds",
     "color": "#3cbc75",
     "checked": true
   }]
 }, {
   "id": "1920",
-  "name": "Locations",
+  "name": "地点",
   "img": "BotW_Locations",
   "color": "#8e72b9",
   "children": [{
@@ -107,25 +107,25 @@ var markerCatalog = [{
     "checked": true
   }, {
     "id": "1922",
-    "name": "Town (House)",
+    "name": "领地",
     "img": "BotW_Farm",
     "color": "#8e72b9",
     "checked": true
   }, {
     "id": "1923",
-    "name": "Sheikah Tower",
+    "name": "塔",
     "img": "BotW_Tower-of-Resurrection",
     "color": "#8e72b9",
     "checked": true
   }, {
     "id": "1924",
-    "name": "Shrine of Resurrection",
+    "name": "初始台地",
     "img": "BotW_Shrine-of-Resurrection",
     "color": "#8e72b9",
     "checked": true
   }, {
     "id": "1925",
-    "name": "Shrine of Trials",
+    "name": "神庙",
     "img": "BotW_Shrines",
     "color": "#8e72b9",
     "checked": true
@@ -143,7 +143,7 @@ var markerCatalog = [{
     "checked": true
   }, {
     "id": "1937",
-    "name": "Great Fairy",
+    "name": "大精灵",
     "img": "BotW_Great-Fairy",
     "color": "#8e72b9",
     "checked": true

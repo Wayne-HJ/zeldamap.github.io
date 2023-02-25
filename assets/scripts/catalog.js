@@ -29,25 +29,25 @@ var markerCatalog = [{
   "color": "#ffad48",
   "children": [{
     "id": "1903",
-    "name": "Weapons",
+    "name": "武器",
     "img": "BotW_Weapons",
     "color": "#ffad48",
     "checked": true
   }, {
     "id": "1904",
-    "name": "Bows & Arrows",
+    "name": "弓箭",
     "img": "BotW_Bow-n-Arrows",
     "color": "#ffad48",
     "checked": true
   }, {
     "id": "1905",
-    "name": "Shields",
+    "name": "防具",
     "img": "BotW_Shields",
     "color": "#ffad48",
     "checked": true
   }, {
     "id": "1906",
-    "name": "Armor",
+    "name": "护甲",
     "img": "BotW_Armor",
     "color": "#ffad48",
     "checked": true
@@ -59,13 +59,13 @@ var markerCatalog = [{
   "color": "#3cbc75",
   "children": [{
     "id": "1911",
-    "name": "Food (Beef)",
+    "name": "肉",
     "img": "BotW_Meat",
     "color": "#3cbc75",
     "checked": true
   }, {
     "id": "1912",
-    "name": "食物",
+    "name": "鱼",
     "img": "BotW_Fish",
     "color": "#3cbc75",
     "checked": true
@@ -101,7 +101,7 @@ var markerCatalog = [{
   "color": "#8e72b9",
   "children": [{
     "id": "1921",
-    "name": "Town (House)",
+    "name": "村庄",
     "img": "BotW_Village",
     "color": "#8e72b9",
     "checked": true
@@ -113,7 +113,7 @@ var markerCatalog = [{
     "checked": true
   }, {
     "id": "1923",
-    "name": "塔",
+    "name": "希卡塔",
     "img": "BotW_Tower-of-Resurrection",
     "color": "#8e72b9",
     "checked": true
@@ -149,7 +149,7 @@ var markerCatalog = [{
     "checked": true
   }, {
     "id": "1938",
-    "name": "Stables",
+    "name": "马厩",
     "img": "BotW_Stables",
     "color": "#8e72b9",
     "checked": true
@@ -161,13 +161,13 @@ var markerCatalog = [{
   "color": "#ff422e",
   "children": [{
     "id": "1931",
-    "name": "Enemy Camp",
+    "name": "怪物营地",
     "img": "BotW_Enemy-Camp",
     "color": "#ff422e",
     "checked": true
   }, {
     "id": "1932",
-    "name": "Guardian",
+    "name": "守护者",
     "img": "BotW_Guardian",
     "color": "#ff422e",
     "checked": true
